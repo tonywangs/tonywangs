@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hey! I'm Tony, a freshman at Stanford passionate about AI and entrepreneurship.
+
+🌲 At college, I serve as Freshman Council President, where I lead representatives across all 24 dorms to connect the Class of 2027. I’m also an organizer for TreeHacks, the largest collegiate hackathon in the US, and a consultant for Microsoft Azure through the Stanford Marketing Group.
+
+Feel free to shoot me an email at wangtony@stanford.edu. I’d love to chat! 🚀
 
 <!--
 **tonywangs/tonywangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
