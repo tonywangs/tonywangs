@@ -1,6 +1,6 @@
-👋 Hey! I'm Tony, a freshman at Stanford passionate about AI and entrepreneurship.
+👋 Hey! I'm Tony, an undergraduate at Stanford passionate about AI and entrepreneurship.
 
-🌲 At college, I serve as Freshman Council President, where I lead representatives across all 24 dorms to connect the Class of 2027. I’m also an organizer for TreeHacks, the largest collegiate hackathon in the US, and a consultant for Microsoft Azure through the Stanford Marketing Group.
+🌲 At college, I’m  an organizer for TreeHacks, the largest collegiate hackathon in the US, and a consultant for Microsoft Azure.
 
 Feel free to shoot me an email at wangtony@stanford.edu. I’d love to chat! 🚀
 
