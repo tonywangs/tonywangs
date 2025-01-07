@@ -1,10 +1,4 @@
-### 👋 Hey there! 
 
-🌱 I'm Tony, an undergraduate at Stanford passionate about all things tech. Specifically, I'm fascinated by govtech and comp bio.
-
-🌲 I lead TreeHacks, the largest collegiate hackathon in the US, and have consulted for Microsoft Azure and Fizz.
-
-📫 Feel free to shoot me an email at wangtony@stanford.edu at any time. I love meeting new people, and I’d love to chat! 
 
 <!--
 **tonywangs/tonywangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
