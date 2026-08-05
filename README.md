@@ -5,7 +5,7 @@ Currently, I'm:
 
 Projects:
 - **[Shepherd](https://github.com/tonywangs/shepherd)** - 1st Place Grand Prize ($12,000) at TreeHacks 2026. A smart cane that guides indoor and outdoor navigation, costing ~1/20 of existing devices.
-- [**Mercury](https://github.com/katie-cheng/hack-mit-2025)** - HackMIT 2025 1st Place Fetch AI Prize + Final Panel Presenter. Agent that automatically adjusts smart homes based on climate conditions.
+- **[Mercury](https://github.com/katie-cheng/hack-mit-2025)** - HackMIT 2025 1st Place Fetch AI Prize + Final Panel Presenter. Agent that automatically adjusts smart homes based on climate conditions.
 - **[Aegis](https://github.com/tonywangs/xAI-Vercel-Hackathon)** - 1st Place at xAI x Vercel Hackathon. Autonomous emergency response agent that can process IDs scans, maintain real-time location tracking, and conduct calls for emergency guidance.
 - **[ContractMe](https://github.com/vyomfadia/contract-me)** - 2nd Place at Brex AgentJam. Agent that automatically handles essential services contracting, from a voice-based phone agent handling requests to a full-fledged contract management system.
 - **[CodeCanary](https://github.com/tonywangs/code-canary)** - 1st Place Overall + 2nd Place Modal Prize at the AI Agent & Infra Hackathon by Lux Capital. Agent that generates SBOMs, detects vulnerabilities, and triages transitive dependency risks.
@@ -17,7 +17,7 @@ Projects:
 - **[openrouter-four](https://github.com/tonywangs/openrouter-four)** - Queries 8 LLM outputs across 4 providers and aggregates them twice, applying "wisdom of crowds" to frontier model outputs to address predictable blind spots that ensemble methods can partially correct.
 - **[youGPT](https://github.com/tonywangs/youGPT)** - Tool for fine-tuning and running LLM ensembles on your own writing corpus
 - **[Substack](https://github.com/tonywangs/substack-stacker)** + **[Are.na](https://github.com/tonywangs/arena-stacker)** scrapers - CLI tools for bulk-downloading entire Substacks and Are.na boards
-- [**Local Whisper Transcriber](https://github.com/tonywangs/whisper-local-transcriber)** - Transcribes audio.m4a locally using open-source Whisper. Your audio stays on your machine. The only downloads are Python packages and the Whisper model weights.
+- **[Local Whisper Transcriber](https://github.com/tonywangs/whisper-local-transcriber)** - Transcribes audio.m4a locally using open-source Whisper. Your audio stays on your machine. The only downloads are Python packages and the Whisper model weights.
 - **[bias-probe](https://creative-viz.vercel.app/)** - Eval framework for benchmarking demographic bias in LLMs. Used it to run 120,000 evaluations across 12 model providers.
 - **[A LIVING POEM](https://github.com/tonywangs/living-poem)** - Infinitely self-rewriting poem insprired by A LIVING POEM by sasha stiles, a piece at NYC MoMA.
 - **[Constellation](https://github.com/tonywangs/constellation)** - An engineering-first recruiting system that visualizes talent networks as a 3D galaxy. Calibration shows precision@20 with gold standard markers.
