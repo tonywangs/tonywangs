@@ -4,8 +4,8 @@ Currently, I'm:
 3. Thinking about next-generation internet and computing interfaces
 
 Projects:
-- **[Shepherd](https://github.com/tonywangs/shepherd)** - 1st Place Grand Prize ($12,000) at TreeHacks 2026. A smart cane that guides indoor and outdoor navigation, costing ~1/20 of existing devices.
-- **[Mercury](https://github.com/katie-cheng/hack-mit-2025)** - HackMIT 2025 1st Place Fetch AI Prize + Final Panel Presenter. Agent that automatically adjusts smart homes based on climate conditions.
+- **[Shepherd](https://github.com/tonywangs/shepherd)** - 1st Place Grand Prize ($12,000) at TreeHacks 2026. A smart cane costing ~1/20 of existing devices.
+- **[Mercury](https://github.com/katie-cheng/hack-mit-2025)** - HackMIT 2025 1st Place Fetch AI Prize + Final Panel Presenter. Automatically adjusts smart homes based on climate conditions.
 - **[Aegis](https://github.com/tonywangs/xAI-Vercel-Hackathon)** - 1st Place at xAI x Vercel Hackathon. Autonomous emergency response agent that can process IDs scans, maintain real-time location tracking, and conduct calls for emergency guidance.
 - **[ContractMe](https://github.com/vyomfadia/contract-me)** - 2nd Place at Brex AgentJam. Agent that automatically handles essential services contracting, from a voice-based phone agent handling requests to a full-fledged contract management system.
 - **[CodeCanary](https://github.com/tonywangs/code-canary)** - 1st Place Overall + 2nd Place Modal Prize at the AI Agent & Infra Hackathon by Lux Capital. Agent that generates SBOMs, detects vulnerabilities, and triages transitive dependency risks.
@@ -18,12 +18,12 @@ Projects:
 - **[youGPT](https://github.com/tonywangs/youGPT)** - Tool for fine-tuning and running LLM ensembles on your own writing corpus
 - **[Substack](https://github.com/tonywangs/substack-stacker)** + **[Are.na](https://github.com/tonywangs/arena-stacker)** scrapers - CLI tools for bulk-downloading entire Substacks and Are.na boards
 - **[Local Whisper Transcriber](https://github.com/tonywangs/whisper-local-transcriber)** - Transcribes audio.m4a locally using open-source Whisper. Your audio stays on your machine. The only downloads are Python packages and the Whisper model weights.
-- **[bias-probe](https://creative-viz.vercel.app/)** - Eval framework for benchmarking demographic bias in LLMs. Used it to run 120,000 evaluations across 12 model providers.
+- **[bias-probe](https://creative-viz.vercel.app/)** - Eval framework for benchmarking demographic bias in LLMs. Ran 120,000 evaluations across 12 model providers.
 - **[A LIVING POEM](https://github.com/tonywangs/living-poem)** - Infinitely self-rewriting poem insprired by A LIVING POEM by sasha stiles, a piece at NYC MoMA.
 - **[Constellation](https://github.com/tonywangs/constellation)** - An engineering-first recruiting system that visualizes talent networks as a 3D galaxy. Calibration shows precision@20 with gold standard markers.
 - **[EXPLORAGON](https://github.com/tonywangs/exploragon)** - City exploration game that divides SF into 1,000 H3 hexagons. Players complete AI-verified, location-specific challenges to claim territory in real time. Top 25 at FAF Multimodal Hackathon.
 - **[Small Claims Form Generator](https://github.com/tonywangs/cognition-hackathon)** - Tool that turns a simple web form into a fully filled California SC-100 PDF. Features AI-assisted legal text generation, court lookup, business info autofill, and smart validation.
-- **[AEMP Web Scrapers](https://github.com/tonywangs/AEMP-Webscrapers)** - This automates the collection of critical housing data to support AEMP's mission of providing data for fighting housing insecurity.
+- **[AEMP Web Scrapers](https://github.com/tonywangs/AEMP-Webscrapers)** - Automates collection of housing data to support AEMP's mission of fighting housing insecurity.
 - **[Laboobie](https://github.com/tonywangs/ai-valley-hackathon)** - Laboobie can FaceTime you, swap between being an AI girlfriend or boyfriend depending on which Labubu you hold up, and challenge you to Red Light Green Light. Won 2nd Place at the AI Valley x Pebblebed Hackathon.
 - **[SEC Analysis Tool](https://github.com/tonywangs/SEC-Analysis-Tool)** - Web app that allows users to upload SEC filings like 10-Ks or 10-Qs and ask questions about them. Supports consistent file storage and multiple conversation threading.
 - **[Monet](https://github.com/tonywangs/monet)** - Voice-controlled tool for seamless presentation editing for the OpenAI x Pear VC hackathon; leverages voice commands to manipulate slide content, making accessible the editing workflow.
@@ -32,7 +32,7 @@ Projects:
 - **[MultiSport](https://github.com/tonywangs/cs131-final-project)** - Real-time CV system for simultaneously live tracking multiple players in sports footage, with bird's-eye view analytics. Implemented Kalman filtering, homography transformation, Canny edge detection, etc.
 - **[Bird-ResNet](https://github.com/tonywangs/Bird-ResNet)** - Applied deep ResNets to the task of avian species classification from images.
 - **[CS44N](https://github.com/tonywangs/CS44N-Computer-Graphics)** - Completed a series of projects in computational graphics mentored by Professor Doug James, exploring topics from ray tracing to 3D modeling. Learned a lot about the math behind modern computer graphics.
-- **[CharacterGraph](https://github.com/tonywangs/character-graph)** - Analyzes a body of text to automatically generate and visualize a graph of character relationships. Provides fun at-a-glance graph of narrative structures.
+- **[CharacterGraph](https://github.com/tonywangs/character-graph)** - Analyzes body of text to automatically generate and visualize a graph of character relationships.
 - **[Stanford Open Policing Project](https://github.com/tonywangs/open-police-project)** - Explored traffic stop data and found that black + hispanic drivers are more likely to be searched when pulled over than white drivers. Awarded 3rd place in the Stanford Probability Contest.
 - **[Lilac Chaser](https://github.com/tonywangs/lilac-chaser)** and **[RDS Project](https://github.com/tonywangs/rds-project)** - Helped my professor code up optical illusion examples to demonstrate class concepts for Stanford PSYCH30: Introduction to Perception
 - **[Sakana Sushi AI](https://github.com/tonywangs/sushi-hackathon)** - SakanaAI combines computer vision, historical data, and real-time intelligence into one unified tool.
