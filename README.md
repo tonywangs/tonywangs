@@ -39,4 +39,4 @@ Projects:
 - **[Wallpaper Auto-Generator](https://github.com/tonywangs/wallpaper-autogenerator)** - Automatically changes your macOS desktop wallpaper based on your GCal events.
 - **[Caply](https://drive.google.com/file/d/1t7oMt2b-8XfqO7WqlDhy10kgEx0lHQdg/view?usp=sharing)** - Tool to streamline CCPA compliance for SMBs. Caply helps efficiently identify and purge personal data.
 - **[AdaptED](https://github.com/StanfordCS194/spr26-Team-19)** - Dynamic game for learning libraries like NumPy/Pandas. LLMs generate challenges.
-- - **[RL for Monetary Policy](https://arxiv.org/abs/2512.17929)** - Using Federal Reserve Economic Data (FRED), we compare nine RL approaches against Taylor rule and naive baselines for macroeconomic monetary policy. Our paper was cited in a book by Turkey's former minister of agriculture and forestry.
+- **[RL for Monetary Policy](https://arxiv.org/abs/2512.17929)** - Using Federal Reserve Economic Data (FRED), we compare nine RL approaches against Taylor rule and naive baselines for macroeconomic monetary policy. Our paper was cited by Turkey's minister of agriculture and forestry.
